@@ -1,5 +1,5 @@
 {
-  "VersionCode": 30,
+  "VersionCode": 40,
   "ForceUpdate": false,
   "ShowDate": "21/07/26",
 
@@ -10,9 +10,9 @@
   },
 
   "Subtitle": {
-    "ar": "الإصدار 3.0",
-    "en": "Version 3.0",
-    "ru": "Версия 3.0"
+    "ar": "الإصدار 4.0",
+    "en": "Version 4.0",
+    "ru": "Версия 4.0"
   },
 
   "WhatsNew": {
@@ -33,5 +33,5 @@
     "ru": "Позже"
   },
 
-  "Button1Url": "https://your-download-link.com"
+  "Button1Url": "https://github.com/Thesoim/s/releases/download/v1.2/To.Do.List.apk"
 }
