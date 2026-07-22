@@ -34,8 +34,5 @@
   },
 
   "Button1Url": "https://your-download-link.com",
-
-  "ForceUpdate": false,
-  "ShowTimer": false,
-  "TargetTime": "2026-07-30 18:00:00"
+  
 }
