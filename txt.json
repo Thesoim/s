@@ -1,0 +1,37 @@
+{
+  "VersionCode": 30,
+  "ForceUpdate": false,
+  "ShowDate": "21/07/26",
+
+  "Title": {
+    "ar": "يتوفر تحديث جديد",
+    "en": "Update Available",
+    "ru": "Доступно обновление"
+  },
+
+  "Subtitle": {
+    "ar": "الإصدار 3.0",
+    "en": "Version 3.0",
+    "ru": "Версия 3.0"
+  },
+
+  "WhatsNew": {
+    "ar": "• إصلاح جميع المشاكل والأعطال\n• تحسين سرعة وأداء التطبيق\n• إضافة قفل التطبيق برمز PIN أو البصمة\n• تحسين واجهة المستخدم",
+    "en": "• Fixed all bugs and crashes\n• Improved app performance\n• Added PIN & Fingerprint Lock\n• Improved user interface",
+    "ru": "• Исправлены ошибки и сбои\n• Улучшена производительность\n• Добавлена блокировка PIN и отпечатком пальца\n• Улучшен интерфейс"
+  },
+
+  "Button1": {
+    "ar": "تحديث",
+    "en": "Update",
+    "ru": "Обновить"
+  },
+
+  "Button2": {
+    "ar": "لاحقًا",
+    "en": "Later",
+    "ru": "Позже"
+  },
+
+  "Button1Url": "https://github.com/Thesoim/s/releases/download/v1.2/To.Do.List.apk"
+}
