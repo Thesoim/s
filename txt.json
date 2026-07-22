@@ -1,5 +1,5 @@
 {
-  "VersionCode": 40,
+  "VersionCode": 30,
   "ForceUpdate": false,
   "ShowDate": "21/07/26",
 
@@ -10,9 +10,9 @@
   },
 
   "Subtitle": {
-    "ar": "الإصدار 4.0",
-    "en": "Version 4.0",
-    "ru": "Версия 4.0"
+    "ar": "الإصدار 3.0",
+    "en": "Version 3.0",
+    "ru": "Версия 3.0"
   },
 
   "WhatsNew": {
