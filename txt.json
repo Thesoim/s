@@ -1,0 +1,37 @@
+{
+  "VersionCode": 40,
+  "ForceUpdate": false,
+  "ShowDate": "21/07/26",
+
+  "Title": {
+    "ar": "يتوفر تحديث جديد",
+    "en": "Update Available",
+    "ru": "Доступно обновление"
+  },
+
+  "Subtitle": {
+    "ar": "الإصدار 4.0",
+    "en": "Version 4.0",
+    "ru": "Версия 4.0"
+  },
+
+  "WhatsNew": {
+    "ar": "• انتقالات سلسة بين الصفحات\n• تحسين ألوان الوضع الداكن\n• أيقونات احترافية لتصنيفات المهام\n• تحسين عرض وقت المنبه\n• عداد تنازلي أثناء إيقاف المنبه\n• استثناء التطبيق من توفير البطارية\n• قسم لإدارة التخزين وتنظيف الملفات المؤقتة",
+    "en": "• Smooth page transitions\n• Improved dark mode colors\n• Professional icons for task categories\n• Improved alarm time display\n• Countdown timer while dismissing the alarm\n• Battery optimization exclusion support\n• Storage management and temporary files cleaning section",
+    "ru": "• Плавные переходы между страницами\n• Улучшены цвета тёмной темы\n• Профессиональные значки для категорий задач\n• Улучшено отображение времени будильника\n• Таймер обратного отсчёта при отключении будильника\n• Поддержка исключения приложения из оптимизации батареи\n• Раздел для управления хранилищем и очистки временных файлов"
+  },
+
+  "Button1": {
+    "ar": "تحديث",
+    "en": "Update",
+    "ru": "Обновить"
+  },
+
+  "Button2": {
+    "ar": "لاحقًا",
+    "en": "Later",
+    "ru": "Позже"
+  },
+
+  "Button1Url": "https://github.com/Thesoim/s/releases/download/v1.2/To.Do.List.apk"
+}
